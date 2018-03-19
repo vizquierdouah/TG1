@@ -1,0 +1,28 @@
+2. Descripción del tipo de tecnología
+Este trabajo trata sobre la investigación de una de las tecnologías emergentes, Modelado UML textual. UML se trata de un Lenguaje de Modelado Unificado, es decir, una especificación de notación orientada a objetos, que se compone de distintos diagramas, representando las diferentes etapas del desarrollo del proyecto. Nos centraremos más concretamente en dos tecnologías específicas PLANTUML y yUML, que se trata de herramientas que permite la creación de diagramas UML online y más tipos de diagramas.
+
+3. Fuentes de información (documentos)
+3.1 Fuentes sobre el tipo de tecnología en general
+3.1.1 Herramientas online para el modelado textual UML
+https://ingenieriadesoftware.es/la-manera-mas-rapida-de-crear-diagramas-uml-10-herramientas-online-para-el-modelado-textual/
+3.1.2 Herramientas UML textuales
+https://modeling-languages.com/herramientas-para-uml/#textual
+3.1.3 Herramientas para modelar diagramas UML
+http://tareasuniveristariasingsoftware.blogspot.com.es/2015/11/herramientas-para-modelar-diagramas-uml.html
+
+ 3.2 Fuentes sobre la tecnología específica PlantUML
+3.2.1 Página oficial de PlantUML
+http://plantuml.com/
+
+3.2.2 Guía de PlantUML
+http://plantuml.com/PlantUML_Language_Reference_Guide.pdf
+3.2.3 Tutorial de PlantUML
+https://www.adictosaltrabajo.com/tutoriales/tutorial-plantuml-dibuja-diagramas-de-forma-sencilla/
+  
+3.3 Fuentes sobre la tecnología específica yUML
+3.3.1 Página oficial de yUML
+https://yuml.me/
+3.3.2 Explicación de la herramienta yUML
+https://www.genbetadev.com/herramientas/yuml-herramienta-online-para-crear-diagramas-uml-a-partir-de-texto-plano
+3.3.3 Tutorial de yUML
+http://gizmos.republica.com/programas-y-aplicaciones/yuml-crea-diagramas-uml-desde-el-codigo-html-de-tu-blog.html
